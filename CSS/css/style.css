@@ -240,7 +240,7 @@ a:active {
 
 @media screen and (max-width: 980px){
 
-    .main-container {
+    .main-about {
         background: #ffffff;
         border: 1px solid #dddddd;
         width: 800px;
@@ -249,7 +249,7 @@ a:active {
         padding: 0 20px 0 20px;
     }
 
-    .section-portfolio {
+    .main-portfolio {
         background: #ffffff;
         border: 1px solid #dddddd;
         width: 800px;
@@ -263,7 +263,7 @@ a:active {
         height: 150px;
     }
 
-    .section-contact {
+    .main-contact {
         background: #ffffff;
         border: 1px solid #dddddd;
         width: 800px;
@@ -295,7 +295,7 @@ a:active {
         overflow: hidden;
     }
   
-    .section-about {
+    .main-about {
         background: #ffffff;
         border: 1px solid #dddddd;
         width: 650px;
@@ -304,7 +304,7 @@ a:active {
         padding: 0 20px 0 20px;
     }
    
-    .section-portfolio {
+    .main-portfolio {
         background: #ffffff;
         border: 1px solid #dddddd;
         width: 650px;
@@ -318,7 +318,7 @@ a:active {
         height: 80px;
     }
  
-    .section-contact {
+    .main-contact {
         background: #ffffff;
         border: 1px solid #dddddd;
         width: 650px;
@@ -360,7 +360,7 @@ a:active {
         overflow: hidden;
     }
    
-    .section-about {
+    .main-about {
         background: #ffffff;
         border: 1px solid #dddddd;
         width: 350px;
@@ -397,7 +397,7 @@ a:active {
     }
     
   
-    .section-portfolio {
+    .main-portfolio {
         background: #ffffff;
         border: 1px solid #dddddd;
         width: 350px;
@@ -432,7 +432,7 @@ a:active {
         height: 150px;
     }
   
-    .section-contact {
+    .main-contact {
         background: #ffffff;
         border: 1px solid #dddddd;
         width: 350px;
