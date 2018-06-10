@@ -238,6 +238,10 @@ a:active {
 }
 
 
+/* need to finish linking, need to get rid of horizontal
+  scrolling bar and need to fix image and need to center 
+  name when in small size */
+
 @media screen and (max-width: 980px){
 
     .main-about {
