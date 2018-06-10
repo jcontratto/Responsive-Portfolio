@@ -243,19 +243,21 @@ a:active {
     .main-about {
         background: #ffffff;
         border: 1px solid #dddddd;
+        padding: 0 20px 0 20px;
         width: 800px;
         height: 450px;
         margin: 80px 20px 80px 80px;
-        padding: 0 20px 0 20px;
+       
     }
 
     .main-portfolio {
         background: #ffffff;
         border: 1px solid #dddddd;
+        padding: 0 20px 0 20px;
         width: 800px;
         height: 750px;
         margin: 80px 10px 80px 10px;
-        padding: 0 20px 0 20px;
+       
 
     }
 
@@ -267,12 +269,15 @@ a:active {
         background: #ffffff;
         border: 1px solid #dddddd;
         width: 800px;
+        padding: 0 20px 0 20px;
         height: 450px;
         margin: 80px 10px 80px 80px;
-        padding: 0 20px 0 20px;
+      
     }
     #name, 
+    
     #email,
+    
     #message {
         width: 750px;
     }
@@ -298,19 +303,21 @@ a:active {
     .main-about {
         background: #ffffff;
         border: 1px solid #dddddd;
+        padding: 0 20px 0 20px;
         width: 650px;
         height: 500px;
         margin: 80px 40px;
-        padding: 0 20px 0 20px;
+        
     }
    
     .main-portfolio {
         background: #ffffff;
         border: 1px solid #dddddd;
+        padding: 0 20px 0 20px;
         width: 650px;
         height: 750px;
         margin: 80px 40px;
-        padding: 0 20px 0 20px;
+      
 
     }
    
@@ -321,15 +328,18 @@ a:active {
     .main-contact {
         background: #ffffff;
         border: 1px solid #dddddd;
+        padding: 0 20px 0 20px;
         width: 650px;
         height: 450px;
         margin: 80px 40px;
-        padding: 0 20px 0 20px;
+       
     }
 
      
     #name, 
+   
     #email,
+   
     #message {
         width: 600px;
     }
@@ -363,10 +373,11 @@ a:active {
     .main-about {
         background: #ffffff;
         border: 1px solid #dddddd;
+        padding: 0 20px 0 20px;
         width: 350px;
         height: 1200px;
         margin: 40px auto 300px auto;
-        padding: 0 20px 0 20px;
+   
     }
 
     #profile-img { 
@@ -400,10 +411,11 @@ a:active {
     .main-portfolio {
         background: #ffffff;
         border: 1px solid #dddddd;
+        padding: 0 20px 0 20px;
         width: 350px;
         height: 1750px;
         margin: 40px auto 0 auto;
-        padding: 0 20px 0 20px;
+        
 
     }
 
@@ -435,15 +447,18 @@ a:active {
     .main-contact {
         background: #ffffff;
         border: 1px solid #dddddd;
+        padding: 0 20px 0 20px;
         width: 350px;
         height: 450px;
         margin: 40px auto 300px auto;
-        padding: 0 20px 0 20px;
+        
     }
 
      
     #name, 
+    
     #email,
+    
     #message {
         width: 300px;
     }
